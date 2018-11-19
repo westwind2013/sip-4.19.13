@@ -1,0 +1,6 @@
+/home/westwind/workspace/rosenv/lib/python3.5/site-packages/sipconfig.py
+/home/westwind/workspace/rosenv/lib/python3.5/site-packages/sipdistutils.py
+/home/westwind/workspace/rosenv/include/python3.5m/sip.h
+/home/westwind/workspace/rosenv/bin/sip
+/home/westwind/workspace/rosenv/lib/python3.5/site-packages/sip.pyi
+/home/westwind/workspace/rosenv/lib/python3.5/site-packages/sip.so
